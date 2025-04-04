@@ -1,0 +1,20 @@
+# Build output
+bin/
+obj/
+*.o
+*.os
+*.a
+
+# macOS system files
+.DS_Store
+
+# IDE/editor files
+*.user
+*.log
+*.tmp
+*~
+.vscode/
+
+# Backup files
+*.bak
+*.swp

@@ -1,0 +1,102 @@
+[
+  {
+    "name": "untitled",
+    "preset": {
+      "__sps": {
+        "pingpongdelay": {},
+        "synth": [
+          {
+            "/drift": {
+              "value": 0.5
+            },
+            "/one": {
+              "value": 0.5
+            },
+            "__sps": {
+              "osc.analog": {
+                "mode": {
+                  "value": 2
+                }
+              }
+            },
+            "drift": {
+              "value": 0.5
+            },
+            "one": {
+              "value": 0.5
+            }
+          },
+          {
+            "/drift": {
+              "value": 0.5
+            },
+            "/one": {
+              "value": 0.5
+            },
+            "__sps": {
+              "osc.analog": {
+                "mode": {
+                  "value": 2
+                }
+              }
+            },
+            "drift": {
+              "value": 0.5
+            },
+            "one": {
+              "value": 0.5
+            }
+          },
+          {
+            "/drift": {
+              "value": 0.5
+            },
+            "/one": {
+              "value": 0.5
+            },
+            "__sps": {
+              "osc.analog": {
+                "mode": {
+                  "value": 2
+                }
+              }
+            },
+            "drift": {
+              "value": 0.5
+            },
+            "one": {
+              "value": 0.5
+            }
+          },
+          {
+            "/drift": {
+              "value": 0.5
+            },
+            "/one": {
+              "value": 0.5
+            },
+            "__sps": {
+              "osc.analog": {
+                "mode": {
+                  "value": 2
+                }
+              }
+            },
+            "drift": {
+              "value": 0.5
+            },
+            "one": {
+              "value": 0.5
+            }
+          }
+        ]
+      },
+      "mix": {
+        "value": 0.9
+      },
+      "regen": {
+        "value": 0.65
+      }
+    }
+  }
+]
